@@ -1,4 +1,4 @@
-from comandos import commands as cm
+from cls.comandos import commands as cm
 
 def eleccion_2_mensaje():
     print("""1. Añadir un video.
