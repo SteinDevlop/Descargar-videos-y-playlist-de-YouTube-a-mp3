@@ -1,4 +1,4 @@
-# Download youtube video in .mp3
+# Descargar videos y playlist de YouTube a mp3
 Descarga, videos y playlist de youtube en mp3.
 
 El objetivo de esto es no recurrir a paginas de dudosa procedencia y hacer una descargar rapida y limpia.
