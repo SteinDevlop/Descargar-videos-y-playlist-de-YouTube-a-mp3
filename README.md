@@ -6,6 +6,10 @@ El objetivo de este codigo es no usar paginas de sospechosa procedencia y automa
 
 Para ejecutar el programa, ejecute el archivo: Ejecutable.py
 
+# Funcionamiento
+
+El programa te pide la url de un video o una playlist, y procede a descargarla en archivo .mp3 y los almacena en una carpeta local.
+
 # Instalar requesitos
 Asegurate de estar en la carpeta donde estan los requerimientos, luego ejecuta el siguiente comando:
 ``` 
