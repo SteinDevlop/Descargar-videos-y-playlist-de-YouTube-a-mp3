@@ -1,17 +1,17 @@
-# Descargar videos y playlist de YouTube a mp3
+# Descargar videos y playlist de YouTube a MP3
 
-El objetivo de este codigo es no usar paginas de sospechosa procedencia y automatizar una tarea lo mas rapido posible, sin ads/trackers.
+El objetivo de este código es no usar páginas de sospechosa procedencia y automatizar una tarea lo más rápido posible, sin ads/trackers.
 
-# Ejecucion
+# Ejecución
 
 Para ejecutar el programa, ejecute el archivo: Ejecutable.py
 
 # Funcionamiento
 
-El programa te pide la url de un video o una playlist, y procede a descargarla en archivo .mp3 y los almacena en una carpeta local.
+El programa te pide la URL de un video o una playlist, y procede a descargarla en archivo .mp3 y los almacena en una carpeta local.
 
-# Instalar requesitos
-Asegurate de estar en la carpeta donde estan los requerimientos, luego ejecuta el siguiente comando:
+# Instalar requisitos
+Asegúrate de estar en la carpeta donde están los requerimientos, luego ejecuta el siguiente comando:
 ``` 
 pip install -r requirements.txt
 ```
