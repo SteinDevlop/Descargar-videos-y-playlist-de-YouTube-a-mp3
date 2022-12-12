@@ -9,10 +9,6 @@ class commands:
 
     path_dowload = f"{os.getcwd()}\Download"
     path_playlist = f"{os.getcwd()}\download playlist"
-    print(path_dowload)
-    print(path_playlist)
-    def __init__(self) -> None:
-        pass
     @classmethod
     def add_link(cls,url):
         with open(cls.path_list,"a",encoding="utf8") as lista:
